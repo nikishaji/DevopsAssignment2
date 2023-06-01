@@ -1,0 +1,4 @@
+com\klapertart\app\App.class
+com\klapertart\app\ProductCrud.class
+com\klapertart\app\Product.class
+com\klapertart\app\DataConnection.class
